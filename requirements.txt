@@ -1,0 +1,10 @@
+streamlit
+pandas
+openpyxl
+xlrd
+pandasai
+pandasai-litellm
+matplotlib
+plotly
+tabulate
+pyarrow
